@@ -5,6 +5,6 @@
 ## 实现相机控制
 ### 支持从不同视角和距离观察模型
 ********
-### 使用框架/库 glfw-3.3.5、glew-2.2.0-win32、glad、glm
+### 使用框架/库 glfw-3.3.5、glew-2.2.0-win32、glad、glm-0.9.9
 ### 编译器vs2019
 ### 参考：https://learnopengl-cn.github.io/
