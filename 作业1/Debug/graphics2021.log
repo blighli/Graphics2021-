@@ -1,0 +1,18 @@
+﻿  homework1.cpp
+C:\Users\Dave\source\repos\graphics2021\homework1.cpp(24,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dave\source\repos\graphics2021\homework1.cpp(59,15): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\Dave\source\repos\graphics2021\homework1.cpp(60,18): warning C4244: “=”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Dave\source\repos\graphics2021\homework1.cpp(64,15): warning C4305: “-=”: 从“double”到“float”截断
+C:\Users\Dave\source\repos\graphics2021\homework1.cpp(65,18): warning C4244: “=”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Dave\source\repos\graphics2021\homework1.cpp(75,42): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\Dave\source\repos\graphics2021\homework1.cpp(76,42): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\Dave\source\repos\graphics2021\homework1.cpp(77,40): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+  graphics2021.vcxproj -> C:\Users\Dave\source\repos\graphics2021\Debug\graphics2021.exe
