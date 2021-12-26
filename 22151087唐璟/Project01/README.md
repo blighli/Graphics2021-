@@ -25,4 +25,10 @@
 <img src="./运行截图/block-mouse-keyboard.png" width="180"/>    <img src="./运行截图/block-mouse-keyboard2.png" width="180"/><br/>
 <img src="./运行截图/sphere.png" width="180"/>    <img src="./运行截图/sphere-mouse-wasd.png" width="180"/>    <img src="./运行截图/sphere-mouse-wasd2.png" width="180"/>
 <img src="./运行截图/sphere-mouse-keyboard.png" width="180"/>    <img src="./运行截图/sphere-mouse-keyboard2.png" width="180"/><br/>
-#### 注：如图，在实现过程中默认给绘制模型加了颜色渲染，绘制立方体、球体均为10个，其中4个自旋转
+#### 注：如图，在实现过程中默认给绘制模型加了颜色渲染，绘制立方体、球体均为10个，其中4个自旋转。
+********
+### 实现说明：
+#### 1.项目使用了glfw和glew搭建的OpenGL基本框架及其他框架、库。
+#### 2.项目绘制了立方体、圆球，在实现过程中默认给绘制模型加了颜色渲染，绘制立方体、球体均为10个，其中4个自旋转。
+#### 3.项目实现了相机控制，支持从不同视角和距离观察模型，具体见使用说明。
+******
