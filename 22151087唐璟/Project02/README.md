@@ -27,13 +27,13 @@
 ### 任务图例：
 ### <img src="ppt.png" width="280"/><br/>
 ### 运行截图：
-<img src="./运行截图/1.png" width="280"/><img src="./运行截图/2.png" width="280"/><img src="./运行截图/3.png" width="280"/><br/>
-<img src="./运行截图/4.png" width="280"/><img src="./运行截图/5.png" width="280"/><img src="./运行截图/6.png" width="280"/><br/>
+<img src="./运行截图/1.png" width="280"/> <img src="./运行截图/2.png" width="280"/> <img src="./运行截图/3.png" width="280"/><br/>
+<img src="./运行截图/4.png" width="280"/> <img src="./运行截图/5.png" width="280"/> <img src="./运行截图/6.png" width="280"/><br/>
 ********
 ### 实现说明：
 #### 1.项目实现了以太阳为光源的光照。
 #### 2.项目实现了太阳、地球、月球绘制即纹理贴图，贴图如下：太阳（左）、地球（中）、月球（右）：
-#### <img src="sun.jpg" width="280"/><img src="earth.jpg" width="280"/><img src="moon.jpg" width="280"/><br/>
+#### <img src="sun.jpg" width="280"/> <img src="earth.jpg" width="280"/> <img src="moon.jpg" width="280"/><br/>
 #### 3.项目实现了不同球体的公转、自转（太阳自转，地球公转、自转，月球公转、自转），转速按周期比计算，旋转角、轴及其步长说明如下：
 ``` c++
     glm::vec3 sun_rotate_axis = glm::vec3(0.0f, 1.0f, 0.0f);//太阳绕y轴自转
