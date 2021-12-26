@@ -19,22 +19,25 @@
 #### 2.功能键“WASD”做窗口上下左右移动（即，物体相反移动）键，W上、S下、A左、D右。
 #### 3.功能键“JK”做窗口远近移动（即，物体缩放）键，J近（物体放大）、K远（物体缩小）。
 #### 4.功能键“C”做还原键（即，重置旋转角步长rotate_angle_step为默认角度值），不同旋转角度按周期比计算。
-#### 5.功能键“↑↓”做旋转速度变换键，“↑”加速正向（逆时针）旋转（即加大旋转步长），“↓”减速正向（逆时针）旋转。
-#### 6.鼠标移动做俯仰角(Pitch)和偏航角(Yaw)变换，即实现上下看、左右看
-#### 7.滚鼠标轮的功能同键“JK”，前滚J、后滚K
+#### 5.功能键“↑↓”做旋转速度变换键，“↑”加速正向（逆时针）旋转（即加大旋转步长），“↓”减速正向旋转（可减至逆运行，即顺时针旋转）。
+#### 6.鼠标移动做俯仰角(Pitch)和偏航角(Yaw)变换，即实现上下看、左右看。
+#### 7.滚鼠标轮的功能同键“JK”，前滚J、后滚K。
 ********
+### 任务图例：
+### <img src="ppt.png" width="200"/><br/>
 ### 运行截图：
-<img src="./运行截图/block.png" width="180"/>    <img src="./运行截图/block-j.png" width="180"/>
-<img src="./运行截图/block-mouse-keyboard.png" width="180"/>    <img src="./运行截图/block-mouse-keyboard2.png" width="180"/><br/>
-<img src="./运行截图/sphere.png" width="180"/>    <img src="./运行截图/sphere-mouse-wasd.png" width="180"/>    <img src="./运行截图/sphere-mouse-wasd2.png" width="180"/>
-<img src="./运行截图/sphere-mouse-keyboard.png" width="180"/>    <img src="./运行截图/sphere-mouse-keyboard2.png" width="180"/><br/>
-#### 注：如图，在实现过程中默认给绘制模型加了颜色渲染，绘制立方体、球体均为10个，其中4个自旋转
+<img src="./运行截图/1.png" width="200"/><img src="./运行截图/2.png" width="200"/><img src="./运行截图/3.png" width="200"/><br/>
+<img src="./运行截图/4.png" width="200"/><img src="./运行截图/5.png" width="200"/><img src="./运行截图/6.png" width="200"/><br/>
 ********
 ### 实现说明：
 #### 1.项目实现了以太阳为光源的光照。
 #### 2.项目实现了太阳、地球、月球绘制即纹理贴图，贴图如下：太阳（左）、地球（中）、月球（右）：
-#### 3.项目实现了不同球体的公转、自转（太阳自转，地球公转、自转，月球公转、自转），转速按周期比计算，旋转角及其步长说明如下
-```
+#### <img src="sun.jpg" width="200"/><img src="earth.jpg" width="200"/><img src="moon.jpg" width="200"/><br/>
+#### 3.项目实现了不同球体的公转、自转（太阳自转，地球公转、自转，月球公转、自转），转速按周期比计算，旋转角、轴及其步长说明如下：
+``` c++
+    glm::vec3 sun_rotate_axis = glm::vec3(0.0f, 1.0f, 0.0f);//太阳绕y轴自转
+    glm::vec3 earth_rotate_axis = glm::vec3(cos(glm::radians(66.34)), sin(glm::radians(66.34)), 0.0f);//地球自转轴与黄道面(地球的公转轨道平面)成66.34度夹角
+    glm::vec3 moon_rotate_axis = glm::vec3(cos(glm::radians(1.5424)), sin(glm::radians(1.5424)), 0.0f);//月球的轨道平面(白道面)与黄道面保持5.145 396°的夹角，月球自转轴则与黄道面的法线成1.5424°的夹角
     rotated_angle += rotate_angle_step;
     //rotate_angle_step = 20.0f;默认值为0.5f
     //假设地球每次转20度，太阳每次转(rotated_angle*earth_rotate地球自转周期/sun_rotate太阳自转周期)度
