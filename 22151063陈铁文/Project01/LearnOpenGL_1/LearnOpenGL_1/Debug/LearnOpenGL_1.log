@@ -1,0 +1,5 @@
+﻿  frametest.cpp
+C:\Users\ASUS\source\repos\LearnOpenGL_1\LearnOpenGL_1\frametest.cpp(43,36): error C2065: “cursor_callback”: 未声明的标识符
+C:\Users\ASUS\source\repos\LearnOpenGL_1\LearnOpenGL_1\frametest.cpp(44,30): error C2065: “key_callback”: 未声明的标识符
+C:\Users\ASUS\source\repos\LearnOpenGL_1\LearnOpenGL_1\frametest.cpp(70,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ASUS\source\repos\LearnOpenGL_1\LearnOpenGL_1\frametest.cpp(90,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
