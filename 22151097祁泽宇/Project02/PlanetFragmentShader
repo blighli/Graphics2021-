@@ -1,0 +1,13 @@
+#version 330 core
+out vec4 FragColor;
+in vec3 normalV;
+in vec3 curPos;
+in vec2 TexCoords;
+
+uniform float radius;
+uniform vec3 sunPos;
+uniform sampler2D texture_;
+void main()
+{
+	FragColor = vec4(0.4F * vec3(texture(texture_, TexCoords)) + 0.6F * vec3(texture(texture_, TexCoords)) *     sin(0.04 + dot(-normalize(curPos - radius * (normalV) - sunPos), normalV))    ,1.0f);
+}
