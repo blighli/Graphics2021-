@@ -7,7 +7,7 @@
 ##### 以模型为中心的平移旋转和缩放
 ##### 以视点为中心的场景漫游
 ********
-#### 使用框架/库 glfw-3.3.5、glew-2.2.0-win32、glad、glm-0.9.9
+#### 使用框架/库 glfw-3.3.5、glew-2.2.0-win32、glad、glm-0.9.9、assimp-5.0.1（Open Asset Import Library，模型导入库）
 #### 编译器vs2019，项目运行采用x64
 ##### 参考：https://learnopengl-cn.github.io/
 ********
