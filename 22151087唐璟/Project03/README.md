@@ -27,11 +27,13 @@
 #### nanosuit.obj（由左至右分别对应默认、DESERT、FACTORY、HORROR、BIOCHEMICAL LAB多光源）
 <img src="./运行截图/1.Z-nanosuit-0.png" width="190" height="145"/> <img src="./运行截图/1.Z-nanosuit-1.png" width="190" height="145"/> <img src="./运行截图/1.Z-nanosuit-2.png" width="190" height="145"/> <img src="./运行截图/1.Z-nanosuit-3.png" width="190" height="145"/> <img src="./运行截图/1.Z-nanosuit-4.png" width="190" height="145"/> <br/>
 #### rp_manuel_animated_001_dancing.fbx
-<img src="./运行截图/2.X-manuel-0.png" width="280"/> <img src="./运行截图/1.Z-nanosuit-1.png" width="280"/> <img src="./运行截图/1.Z-nanosuit-2.png" width="280"/> <img src="./运行截图/1.Z-nanosuit-3.png" width="280"/> <img src="./运行截图/1.Z-nanosuit-4.png" width="280"/> <br/>
+<img src="./运行截图/2.X-manuel-0.png" width="190" height="145"/> <img src="./运行截图/2.X-manuel-1.png" width="190" height="145"/> <img src="./运行截图/2.X-manuel-2.png" width="190" height="145"/> <img src="./运行截图/2.X-manuel-3.png" width="190" height="145"/> <img src="./运行截图/2.X-manuel-4.png" width="190" height="145"/> <br/>
 #### Dragon_Baked_Actions_fbx_7.4_binary.fbx
+<img src="./运行截图/3.C-Dragon-0.png" width="190" height="145"/> <img src="./运行截图/3.C-Dragon-1.png" width="190" height="145"/> <img src="./运行截图/3.C-Dragon-2.png" width="190" height="145"/> <img src="./运行截图/3.C-Dragon-3.png" width="190" height="145"/> <img src="./运行截图/3.C-Dragon-4.png" width="190" height="145"/> <br/>
 #### Dragon 2.5_fbx.fbx
+<img src="./运行截图/4.V-Dragon-0.png" width="190" height="145"/> <img src="./运行截图/4.V-Dragon-1.png" width="190" height="145"/> <img src="./运行截图/4.V-Dragon-2.png" width="190" height="145"/> <img src="./运行截图/4.V-Dragon-3.png" width="190" height="145"/> <img src="./运行截图/4.V-Dragon-4.png" width="190" height="145"/> <br/>
 #### Dragon 2.5_stl.stl
-<img src="./运行截图/4.png" width="280"/> <img src="./运行截图/5.png" width="280"/> <img src="./运行截图/6.png" width="280"/><br/>
+<img src="./运行截图/5.B-Dragon-0.png" width="190" height="145"/> <img src="./运行截图/5.B-Dragon-1.png" width="190" height="145"/> <img src="./运行截图/5.B-Dragon-2.png" width="190" height="145"/> <img src="./运行截图/5.B-Dragon-3.png" width="190" height="145"/> <img src="./运行截图/5.B-Dragon-4.png" width="190" height="145"/> <br/>
 ********
 ### 实现说明：
 #### 1.项目支持以下三维模型文件：obj、3DS、stl、fbx等，其中obj、stl、fbx有模型截图实例，3DS模型不完整、未截图（具体文件见./models）,文件调用代码如下：
