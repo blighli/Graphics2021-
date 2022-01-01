@@ -25,7 +25,7 @@
 <img src="./lighting_0.png" width="280"/> <img src="./multiple_lights_atmospheres.png" width="280"/><br/>
 ### 运行截图：
 #### nanosuit.obj（由左至右分别对应默认、DESERT、FACTORY、HORROR、BIOCHEMICAL LAB多光源）
-<img src="./运行截图/1.Z-nanosuit-0.png" width="200"/> <img src="./运行截图/1.Z-nanosuit-1.png" width="200"/> <img src="./运行截图/1.Z-nanosuit-2.png" width="200"/> <img src="./运行截图/1.Z-nanosuit-3.png" width="200"/> <img src="./运行截图/1.Z-nanosuit-4.png" width="200"/> <br/>
+<img src="./运行截图/1.Z-nanosuit-0.png" width="190"/> <img src="./运行截图/1.Z-nanosuit-1.png" width="190"/> <img src="./运行截图/1.Z-nanosuit-2.png" width="190"/> <img src="./运行截图/1.Z-nanosuit-3.png" width="190"/> <img src="./运行截图/1.Z-nanosuit-4.png" width="190"/> <br/>
 #### rp_manuel_animated_001_dancing.fbx
 <img src="./运行截图/2.X-manuel-0.png" width="280"/> <img src="./运行截图/1.Z-nanosuit-1.png" width="280"/> <img src="./运行截图/1.Z-nanosuit-2.png" width="280"/> <img src="./运行截图/1.Z-nanosuit-3.png" width="280"/> <img src="./运行截图/1.Z-nanosuit-4.png" width="280"/> <br/>
 #### Dragon_Baked_Actions_fbx_7.4_binary.fbx
