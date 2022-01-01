@@ -5,7 +5,7 @@
 ##### 具体模型文件及网址说明如下：
 ##### 1.bugatti文件夹（上传失败），对应“Bugatti Chiron 2017 Sports Car 3D模型(6e48z1kc7r40-bugatti.zip”（上传失败），代码：
 ``` c++
-    Model ourModel0("./models/bugatti/bugatti.obj");//车，没纹理
+    //Model ourModel0("./models/bugatti/bugatti.obj");//车，没纹理
 ```
 ##### 下载来自：https://free3d.com/3d-model/bugatti-chiron-2017-model-31847.html
 ##### 2.Dragon文件夹（上传成功），对应“Black Dragon Rigged And Game Ready 3D模型(gdoi5oiog8hs-Black-Dragon-NEW-27.03.2017.zip”（上传失败），代码：
