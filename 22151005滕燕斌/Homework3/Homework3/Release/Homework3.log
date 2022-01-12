@@ -1,0 +1,23 @@
+﻿  Homework3.cpp
+C:\Users\tyb\Desktop\三维动画\作业\Homework3\Homework3\Homework3\Homework3.cpp(48,46): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\tyb\Desktop\三维动画\作业\Homework3\Homework3\Homework3\Homework3.cpp(104,30): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\tyb\Desktop\三维动画\作业\Homework3\Homework3\Homework3\Homework3.cpp(131,89): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\tyb\Desktop\三维动画\作业\Homework3\Homework3\Homework3\Homework3.cpp(132,93): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\tyb\Desktop\三维动画\作业\Homework3\Homework3\Homework3\Homework3.cpp(139,89): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\tyb\Desktop\三维动画\作业\Homework3\Homework3\Homework3\Homework3.cpp(140,93): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\tyb\Desktop\三维动画\作业\Homework3\Homework3\Homework3\Homework3.cpp(193,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tyb\Desktop\三维动画\作业\Homework3\Homework3\Homework3\Homework3.cpp(194,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tyb\Desktop\三维动画\作业\Homework3\Homework3\Homework3\Homework3.cpp(198,21): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\tyb\Desktop\三维动画\作业\Homework3\Homework3\Homework3\Homework3.cpp(199,21): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\tyb\Desktop\三维动画\作业\Homework3\Homework3\Homework3\Homework3.cpp(201,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tyb\Desktop\三维动画\作业\Homework3\Homework3\Homework3\Homework3.cpp(202,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tyb\Desktop\三维动画\作业\Homework3\Homework3\Homework3\Homework3.cpp(205,34): warning C4244: “+=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\tyb\Desktop\三维动画\作业\Homework3\Homework3\Homework3\Homework3.cpp(206,34): warning C4244: “-=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\tyb\Desktop\三维动画\作业\Homework3\Homework3\Homework3\Homework3.cpp(216,21): warning C4305: “/=”: 从“double”到“GLfloat”截断
+C:\Users\tyb\Desktop\三维动画\作业\Homework3\Homework3\Homework3\Homework3.cpp(217,40): warning C4305: “=”: 从“double”到“GLfloat”截断
+C:\Users\tyb\Desktop\三维动画\作业\Homework3\Homework3\Homework3\Homework3.cpp(220,21): warning C4305: “*=”: 从“double”到“GLfloat”截断
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 621 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Homework3.vcxproj -> C:\Users\tyb\Desktop\三维动画\作业\Homework3\Homework3\Release\Homework3.exe
