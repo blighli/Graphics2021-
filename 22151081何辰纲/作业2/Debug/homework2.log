@@ -1,0 +1,20 @@
+﻿  homework2.cpp
+C:\Users\Dave\source\repos\homework2\shader.h(43,40): warning C4101: “e”: 未引用的局部变量
+C:\Users\Dave\source\repos\homework2\homework2.cpp(50,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dave\source\repos\homework2\homework2.cpp(51,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dave\source\repos\homework2\homework2.cpp(55,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dave\source\repos\homework2\homework2.cpp(56,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dave\source\repos\homework2\homework2.cpp(58,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dave\source\repos\homework2\homework2.cpp(59,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dave\source\repos\homework2\homework2.cpp(66,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Dave\source\repos\homework2\homework2.cpp(72,15): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\Dave\source\repos\homework2\homework2.cpp(72,43): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\Dave\source\repos\homework2\homework2.cpp(72,96): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\Dave\source\repos\homework2\homework2.cpp(80,22): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\Dave\source\repos\homework2\homework2.cpp(81,22): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\Dave\source\repos\homework2\homework2.cpp(83,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Dave\source\repos\homework2\homework2.cpp(84,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Dave\source\repos\homework2\homework2.cpp(144,42): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Dave\source\repos\homework2\homework2.cpp(323,37): warning C4305: “参数”: 从“double”到“GLfloat”截断
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  homework2.vcxproj -> C:\Users\Dave\source\repos\homework2\Debug\homework2.exe
