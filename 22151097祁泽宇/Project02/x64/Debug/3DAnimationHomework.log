@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\z\source\repos\3DAnimationHomework\Shader.h(56,40): warning C4101: “e”: 未引用的局部变量
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(42,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(48,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(49,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(53,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(54,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(56,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(57,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(84,23): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(85,27): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(88,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(89,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(90,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(99,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(101,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(166,5): warning C4305: “初始化”: 从“double”到“const float”截断
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(257,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(285,79): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(304,79): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+C:\Users\z\source\repos\3DAnimationHomework\main.cpp(318,79): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  3DAnimationHomework.vcxproj -> C:\Users\z\source\repos\3DAnimationHomework\x64\Debug\3DAnimationHomework.exe
