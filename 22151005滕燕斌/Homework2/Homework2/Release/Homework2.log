@@ -1,0 +1,20 @@
+﻿  Homework2.cpp
+C:\Users\tyb\Desktop\三维动画\作业\Homework2\Homework2\Homework2.cpp(378,34): warning C4244: “+=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\tyb\Desktop\三维动画\作业\Homework2\Homework2\Homework2.cpp(387,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tyb\Desktop\三维动画\作业\Homework2\Homework2\Homework2.cpp(388,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tyb\Desktop\三维动画\作业\Homework2\Homework2\Homework2.cpp(392,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tyb\Desktop\三维动画\作业\Homework2\Homework2\Homework2.cpp(393,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tyb\Desktop\三维动画\作业\Homework2\Homework2\Homework2.cpp(395,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tyb\Desktop\三维动画\作业\Homework2\Homework2\Homework2.cpp(396,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tyb\Desktop\三维动画\作业\Homework2\Homework2\Homework2.cpp(398,25): warning C4244: “+=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\tyb\Desktop\三维动画\作业\Homework2\Homework2\Homework2.cpp(399,27): warning C4244: “+=”: 从“double”转换到“GLfloat”，可能丢失数据
+  正在生成代码
+  41 of 340 functions (12.1%) were compiled, the rest were copied from previous compilation.
+    10 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Homework2.vcxproj -> C:\Users\tyb\Desktop\三维动画\作业\Homework2\Release\Homework2.exe
