@@ -1,0 +1,20 @@
+﻿  Camera.cpp
+  Shader.cpp
+C:\Users\54381\Desktop\graphics2021\22151044胡思超\Project02\Project1\Shader.h(56,40): warning C4101: “e”: 未引用的局部变量
+  源.cpp
+C:\Users\54381\Desktop\graphics2021\22151044胡思超\Project02\Project1\shader.h(56,40): warning C4101: “e”: 未引用的局部变量
+C:\Users\54381\Desktop\graphics2021\22151044胡思超\Project02\Project1\源.cpp(182,26): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\54381\Desktop\graphics2021\22151044胡思超\Project02\Project1\源.cpp(183,27): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\54381\Desktop\graphics2021\22151044胡思超\Project02\Project1\源.cpp(184,25): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\54381\Desktop\graphics2021\22151044胡思超\Project02\Project1\源.cpp(192,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54381\Desktop\graphics2021\22151044胡思超\Project02\Project1\源.cpp(317,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54381\Desktop\graphics2021\22151044胡思超\Project02\Project1\源.cpp(318,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54381\Desktop\graphics2021\22151044胡思超\Project02\Project1\源.cpp(322,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54381\Desktop\graphics2021\22151044胡思超\Project02\Project1\源.cpp(323,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54381\Desktop\graphics2021\22151044胡思超\Project02\Project1\源.cpp(325,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54381\Desktop\graphics2021\22151044胡思超\Project02\Project1\源.cpp(326,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54381\Desktop\graphics2021\22151044胡思超\Project02\Project1\源.cpp(335,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  源1.cpp
+  正在生成代码...
+  glad.c
+  Project1.vcxproj -> C:\Users\54381\Desktop\graphics2021\22151044胡思超\Project02\x64\Debug\Project1.exe
